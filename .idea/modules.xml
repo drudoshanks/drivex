@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Dexcom.iml" filepath="$PROJECT_DIR$/.idea/modules/Dexcom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SkyconsLibrary/Dexcom.SkyconsLibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/SkyconsLibrary/Dexcom.SkyconsLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Dexcom.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Dexcom.app.iml" />
+    </modules>
+  </component>
+</project>
